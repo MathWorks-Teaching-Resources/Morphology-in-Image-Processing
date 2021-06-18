@@ -16,7 +16,7 @@ This package contains a  [live script](https://www.mathworks.com/products/matlab
 This module contains several illustrative animations. For the best experience, run it one section at a time to begin. The instructions will guide you through each section while also allowing for free exploration of ideas.
 To stop running the script or a section midway (for example, when an animation is in progress), use the **Stop** button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.  
 
-<img src="https://www.mathworks.com/content/mathworks/www/en/academia/courseware/binary-morphology/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.gif/1619422126599.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/81376570/121722348-55a89380-cab3-11eb-962e-0b071db7964e.gif" width="300" height="300" />
 
 ## Suggested Prework ## 
 [MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB.  
