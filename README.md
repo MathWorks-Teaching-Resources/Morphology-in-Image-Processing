@@ -1,0 +1,42 @@
+# Binary Morphology in Image Processing [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-Phase-Plane-and-Slope-Field)
+**Curriculum Module**  
+_Created with R2020a. Compatible with R2020a and later releases._  
+
+## Description ##
+This package contains a  [live script](https://www.mathworks.com/products/matlab/live-editor.html) and supporting files to illustrate and apply the fundamentals of morphological operations used for processing binary images. The materials are designed to be flexible and can be easily modified to accommodate a variety of teaching and learning methods. The package includes definitions and a brief background, interactive illustrations of concepts, guided tasks, reflection questions, application examples, and practice problems for the concepts explored in this module.
+
+**Learning Goals**
+- Define and apply the primary morphological operations—erosion and dilation.
+- Explain the use of relational and logical operators in the context of binary image processing.
+- Define and apply compound morphological operations like opening and closing.
+- Explain the effect of using structuring elements of different shapes and sizes for each morphological operation.
+- Identify and apply the appropriate morphological operations and structuring elements to achieve a given processing outcome.
+- Use simple shapes to filter objects in an image.
+
+This module contains several illustrative animations. For the best experience, run it one section at a time to begin. The instructions will guide you through each section while also allowing for free exploration of ideas.
+To stop running the script or a section midway (for example, when an animation is in progress), use the **Stop** button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.  
+
+<img src="https://www.mathworks.com/content/mathworks/www/en/academia/courseware/binary-morphology/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.gif/1619422126599.gif" width="300" height="300" />
+
+## Suggested Prework ## 
+[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB.  
+
+## Details ##
+
+**`binaryMorphologyBasics.mlx`**  
+This is an interactive guided lesson that introduces the fundamentals of morphological image processing. Students identify and apply basic operators to process binary images to perform tasks such as extracting object boundaries and filtering objects by shapes. It is the main script for this module.  
+
+## ##
+**`practiceProblemSolns.mlx`**  
+This is a supplementary script containing solutions to the three guided practice problems contained in `binaryMorphologyBasics.mlx`.  
+
+## ##
+**`morphImageEx/`**  
+This folder contains several binary images used for illustration and practice in `binaryMorphologyBasics.mlx`. The main script adds this folder to your search path and provides controls to switch between the images when applicable. Ensure that this folder is in the same folder as the main script. Alternatively, ensure that all the required images are in the MATLAB search path.
+
+## Products ##
+MATLAB, Image Processing Toolbox™
+
+# #
+
+_Copyright 2021 The MathWorks, Inc._
