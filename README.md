@@ -1,4 +1,4 @@
-# Binary Morphology in Image Processing [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-Phase-Plane-and-Slope-Field)
+# Binary Morphology in Image Processing [![View Binary Morphology in Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing)
 **Curriculum Module**  
 _Created with R2020a. Compatible with R2020a and later releases._  
 
