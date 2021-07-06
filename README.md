@@ -37,6 +37,12 @@ This folder contains several binary images used for illustration and practice in
 ## Products ##
 MATLAB, Image Processing Toolbox™
 
+## License ##
+The license for this module is available in the LICENSE.TXT file in this GitHub repository.
+
+## Support ##
+Have any questions or feedback? Contact the [MathWorks online teaching team](mailto:onlineteaching@mathworks.com).
+
 # #
 
 _Copyright 2021 The MathWorks, Inc._
