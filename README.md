@@ -14,7 +14,7 @@ This package contains a  [live script](https://www.mathworks.com/products/matlab
 - Use simple shapes to filter objects in an image.
 
 This module contains several illustrative animations. For the best experience, run it one section at a time to begin. The instructions will guide you through each section while also allowing for free exploration of ideas.
-To stop running the script or a section midway (for example, when an animation is in progress), use the **Stop** button in the **RUN** section of the **Live Editor** tab in the MATLAB® toolstrip.  
+To stop running the script or a section midway (for example, when an animation is in progress), use the **Stop** button in the **Run** section of the **Live Editor** tab in the MATLAB® toolstrip.  
 
 <img src="https://user-images.githubusercontent.com/81376570/121722348-55a89380-cab3-11eb-962e-0b071db7964e.gif" width="300" height="300" />
 
