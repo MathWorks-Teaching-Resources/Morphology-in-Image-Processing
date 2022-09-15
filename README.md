@@ -1,4 +1,6 @@
-# Binary Morphology in Image Processing [![View Binary Morphology in Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) or [Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
+# Binary Morphology in Image Processing 
+[![View Binary Morphology in Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) 
+or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
 **Curriculum Module**  
 _Created with R2020a. Compatible with R2020a and later releases._  
 
@@ -23,7 +25,7 @@ To stop running the script or a section midway (for example, when an animation i
 
 ## Details ##
 
-**`binaryMorphologyBasics.mlx`**  [Open in MATLAB Onine](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
+**`binaryMorphologyBasics.mlx`**  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
 This is an interactive guided lesson that introduces the fundamentals of morphological image processing. Students identify and apply basic operators to process binary images to perform tasks such as extracting object boundaries and filtering objects by shapes. It is the main script for this module.  
 
 ## ##
