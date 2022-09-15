@@ -1,6 +1,7 @@
 # Binary Morphology in Image Processing 
 [![View Binary Morphology in Image Processing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) 
 or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
+
 **Curriculum Module**  
 _Created with R2020a. Compatible with R2020a and later releases._  
 
