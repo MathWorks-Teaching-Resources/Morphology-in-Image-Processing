@@ -22,7 +22,7 @@ To stop running the script or a section midway (for example, when an animation i
 <img src="https://user-images.githubusercontent.com/81376570/121722348-55a89380-cab3-11eb-962e-0b071db7964e.gif" width="300" height="300" />
 
 ## Suggested Prework ## 
-[MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial to learn the essentials of MATLAB.  
+[MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial to learn the essentials of MATLAB.  
 
 ## Details ##
 
