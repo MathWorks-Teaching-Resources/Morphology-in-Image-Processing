@@ -30,6 +30,7 @@ codegen/
 
 # Cache files
 *.slxc
+Utilities/ProjectSettings.mat
 
 # Cloud based storage dotfile
 .MATLABDriveTag
