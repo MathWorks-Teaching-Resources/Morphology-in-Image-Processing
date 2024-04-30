@@ -3,7 +3,7 @@
 # <span style="color:rgb(213,80,0)">Binary Morphology in Image Processing</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj&file=README.mlx)
 
 **Curriculum Module**
 
