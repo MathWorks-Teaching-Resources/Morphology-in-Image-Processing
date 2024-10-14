@@ -1,0 +1,3 @@
+Name,Passed,Failed,Incomplete,Duration,Details
+SmokeTests[Project=Binary_Morphology]/SmokeRun(File=BinaryMorphologyBasics.mlx),1,0,0,79.6253337,
+SmokeTests[Project=Binary_Morphology]/SmokeRun(File=PracticeProblemSolns.mlx),1,0,0,5.8225256,
