@@ -4,7 +4,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94590-binary-morphology-in-image-processing) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Morphology-in-Image-Processing&project=Morphology.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/binary-morphology-in-image-processing/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/binary-morphology-in-image-processing)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Morphology-in-Image-Processing/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Morphology-in-Image-Processing/)
 
 **Curriculum Module**
 
